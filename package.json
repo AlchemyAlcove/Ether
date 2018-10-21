@@ -15,7 +15,8 @@
     "responsive",
     "react",
     "framework",
-    "component"
+    "component",
+    "ether"
   ],
   "scripts": {
     "babel": "babel src --out-dir dist",
